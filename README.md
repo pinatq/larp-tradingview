@@ -1,5 +1,7 @@
 # larp-tradingview
 
+> *Better-looking TradingView to blow up your evals in style. Your money still goes to the whales and market makers, but now there's an anime sunset behind it.* 🐋
+
 **Live video wallpaper for TradingView Desktop.** Put a looping video (anime, lofi, space, city nights, Dubai larp, whatever) behind your charts, watchlist and toolbars. It's like BetterDiscord themes, but for TradingView.
 
 ![TradingView with a black hole video behind the chart and the Ctrl+B menu open](docs/screenshot.jpg)
